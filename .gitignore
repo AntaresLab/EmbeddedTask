@@ -1,0 +1,10 @@
+*
+!*/
+!.gitignore
+!.README.md
+![Mm]akefile
+!*.h
+!*.c
+!*.s
+!*.ld
+!*.lib
